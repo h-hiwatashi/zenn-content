@@ -12,4 +12,7 @@ https://zenn.dev/zenn/articles/zenn-cli-guide
 
 # よく使うコマンド
 
+```
 npx zenn preview
+npx zenn new:article --slug 記事のスラッグ --title タイトル --type idea --emoji ✨
+```
