@@ -2,7 +2,7 @@
 title: "個人的 Flutter 環境構築"
 emoji: "🐣"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
+topics: [Flutter, Dart]
 published: false
 ---
 
